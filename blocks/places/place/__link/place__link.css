@@ -1,0 +1,17 @@
+.place__link {
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  margin-bottom: 48px;
+}
+
+@media screen and (min-width: 768px) and (max-width: 2600px) {
+  .place__link::after {
+  content:"";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  text-decoration-line: underline;
+  }
+}

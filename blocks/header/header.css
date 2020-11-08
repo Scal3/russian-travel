@@ -1,0 +1,9 @@
+@import url(../../vendor/inter.css);
+
+.header {
+  height: 42px;
+  display: flex;
+  justify-content: space-between;
+  margin: 16px 0 48px 0;
+  font-family: 'Inter' , Arial, Helvetica, sans-serif;
+}

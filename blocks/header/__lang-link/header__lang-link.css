@@ -1,0 +1,18 @@
+.header__lang-link {
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 20px;
+  color: #fff;
+}
+
+.header__lang-link:focus {
+  text-decoration: underline;
+}
+
+@media screen and (min-width: 768px) and (max-width: 2600px) {
+  .header__lang-link {
+    font-size: 24px;
+    line-height: 28px;
+  }
+}
