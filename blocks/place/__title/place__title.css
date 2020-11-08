@@ -11,17 +11,22 @@
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
 .place__title {
-  grid-area: title;
   font-size: 42px;
   line-height: 46px;
   margin: 0;
 }
 }
 
+@media screen and (min-width: 768px) and (max-width: 2600px) {
+.place__title {
+  grid-area: title;
+}
+}
+
 @media screen and (min-width: 1024px) and (max-width: 2600px) {
-  .place__title {
-    font-size: 72px;
-    line-height: 76px;
+.place__title {
+  font-size: 72px;
+  line-height: 76px;
 }
 }
 
