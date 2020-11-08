@@ -1,19 +1,19 @@
-.footer__link_margin_bottom {
+.footer__list_margin_bottom {
   margin-bottom: 32px;
 }
 
-.footer__link_margin_bottom:last-child {
+.footer__list_margin_bottom:last-child {
   margin-bottom: 48px;
 }
 
 @media screen and (min-width: 768px) and (max-width: 2600px) {
-  .footer__link_margin_bottom {
+  .footer__list_margin_bottom {
     margin-bottom: 24px;
   }
 }
 
 @media screen and (min-width: 768px) and (max-width: 2600px) {
-  .footer__link_margin_bottom:last-child {
+  .footer__list_margin_bottom:last-child {
     margin-bottom: 0;
   }
 }
