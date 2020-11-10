@@ -8,7 +8,7 @@
   }
 }
 
-@media screen and (min-width: 1280px) and (max-width: 2600px) {
+@media screen and (min-width: 1280px) {
   .place__url {
     padding-top: 10%;
   }

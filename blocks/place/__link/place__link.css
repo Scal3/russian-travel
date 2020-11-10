@@ -3,15 +3,21 @@
   padding: 0;
   color: #fff;
   margin-bottom: 48px;
+  opacity: 0;
+  width: 0;
+  height: 0;
 }
 
-@media screen and (min-width: 768px) and (max-width: 2600px) {
-  .place__link::after {
-  content:"";
+@media screen and (min-width: 768px) {
+  .place__link {
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
   line-height: 22px;
   text-decoration-line: underline;
+  opacity: 1;
+  width: 18px;
+  height: 30px;
+  margin-bottom: 48px;
   }
 }

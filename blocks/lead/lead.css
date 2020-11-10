@@ -17,9 +17,9 @@
 }
 
 
-@media screen and (min-width:1280px) and (max-width:2600px) {
+@media screen and (min-width:1280px) {
   .lead {
-    padding-left: 148px;
-    padding-right: 148px;
+    padding-left: 100px;
+    padding-right: 100px;
   }
 }

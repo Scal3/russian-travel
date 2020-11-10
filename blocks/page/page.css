@@ -1,8 +1,14 @@
-@import url(../../vendor/inter.css);
-
 .page {
+  min-width: 320px;
   background-color: #2A2C2F;
   margin: 0 auto;
   max-width: 1184px;
+}
+
+@media screen and (min-width: 1280px) {
+  .page {
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 

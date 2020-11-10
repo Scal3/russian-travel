@@ -5,9 +5,10 @@
   line-height: 35px;
   max-width: 350px;
   z-index: 1;
+  margin: 0;
 }
 
-@media screen and (min-width: 768px) and (max-width: 2600px) {
+@media screen and (min-width: 768px) {
   .cover__title {
     font-size: 72px;
     line-height: 76px;

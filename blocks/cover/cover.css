@@ -23,7 +23,7 @@
 }
 
 
-@media screen and (min-width: 1024px) and (max-width: 2600px) {
+@media screen and (min-width: 1024px) {
   .cover {
     margin-bottom: 92px;
   }

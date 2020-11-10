@@ -11,7 +11,7 @@
   }
 }
 
-@media screen and (min-width: 768px) and (max-width: 2600px) {
+@media screen and (min-width: 768px) {
   .place__image {
     grid-area: image;
   }
@@ -24,7 +24,7 @@
   }
 }
 
-@media screen and (min-width: 1280px) and (max-width: 2600px) {
+@media screen and (min-width: 1280px) {
   .place__image {
     max-width: 460px;
     max-height: 460px;
