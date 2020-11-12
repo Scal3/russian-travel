@@ -17,16 +17,16 @@
   .place__paragraph {
     padding-right: 0;
     padding-left: 0;
+    max-width: 352px;
 }
 }
 
 @media screen and (min-width: 1024px) {
   .place__paragraph {
-    width: 484px;
-    font-style: normal;
-    font-weight: normal;
+    max-width: 456px;
     font-size: 18px;
     line-height: 29px;
+
 }
 }
 
