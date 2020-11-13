@@ -3,7 +3,7 @@
   padding: 0;
   color: #fff;
   margin-bottom: 48px;
-  opacity: 0;
+  display: none;
 }
 
 @media screen and (min-width: 768px) {
@@ -13,7 +13,7 @@
     font-size: 18px;
     line-height: 22px;
     text-decoration-line: underline;
-    opacity: 1;
     margin-bottom: 0;
+    display: block;
   }
 }
