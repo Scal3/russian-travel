@@ -4,8 +4,6 @@
   color: #fff;
   margin-bottom: 48px;
   opacity: 0;
-  width: 0;
-  height: 0;
 }
 
 @media screen and (min-width: 768px) {
